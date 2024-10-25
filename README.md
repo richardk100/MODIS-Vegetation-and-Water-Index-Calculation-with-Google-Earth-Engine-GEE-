@@ -1,5 +1,4 @@
 # MODIS-Vegetation-and-Water-Index-Calculation-with-Google-Earth-Engine-GEE-
-# MODIS Vegetation and Water Index Calculation with Google Earth Engine (GEE)
 
 This project calculates various vegetation and water indices using MODIS imagery in Google Earth Engine (GEE). The indices include NDVI, SAVI, NDWI, NDSI, MNDWI, and MSAVI, which are useful for analyzing vegetation health, soil moisture, water bodies, and snow cover within a region of interest (ROI) for a specific time period.
 
